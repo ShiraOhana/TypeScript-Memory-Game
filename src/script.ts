@@ -1,16 +1,16 @@
 const cardsArray: { name: string; img: string }[] = [
-  { name: "broom", img: "dist/assets/broom.png" },
-  { name: "broom", img: "dist/assets/broom.png" },
-  { name: "hat", img: "dist/assets/hat.png" },
-  { name: "hat", img: "dist/assets/hat.png" },
-  { name: "ghost", img: "dist/assets/ghost.png" },
-  { name: "ghost", img: "dist/assets/ghost.png" },
+  { name: "candle", img: "dist/assets/candle.png" },
+  { name: "candle", img: "dist/assets/candle.png" },
+  { name: "spider", img: "dist/assets/spider.png" },
+  { name: "spider", img: "dist/assets/spider.png" },
+  { name: "voodoo", img: "dist/assets/voodoo.png" },
+  { name: "voodoo", img: "dist/assets/voodoo.png" },
   { name: "potion", img: "dist/assets/potion.png" },
   { name: "potion", img: "dist/assets/potion.png" },
-  { name: "lollipop", img: "dist/assets/lollipop.png" },
-  { name: "lollipop", img: "dist/assets/lollipop.png" },
-  { name: "cauldron", img: "dist/assets/cauldron.png" },
-  { name: "cauldron", img: "dist/assets/cauldron.png" },
+  { name: "flame", img: "dist/assets/flame.png" },
+  { name: "flame", img: "dist/assets/flame.png" },
+  { name: "littledevil", img: "dist/assets/littledevil.png" },
+  { name: "littledevil", img: "dist/assets/littledevil.png" },
 ];
 
 // Card shuffle
