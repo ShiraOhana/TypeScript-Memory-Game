@@ -4,21 +4,19 @@ body {
   color: #a2c9ed;
   font-size: 3rem;
   background-color: #e9e8e5;
-}
-
-.container {
-  display: flex;
   background: url(./dist/assets/bg.png) no-repeat center center/cover;
   width: 100vw;
   height: 100vh;
   background-size: 100% 100%;
-  /* padding: 100px 200px 100px 100px; */
-  background-color: black;
+}
+
+.container {
+  display: flex;
 }
 .grid {
   flex-wrap: wrap;
   gap: 0.4rem;
-  padding-top: 7rem;
+  padding-top: 5rem;
   width: 36rem;
   margin: 0 auto;
 }
