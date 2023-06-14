@@ -1,8 +1,9 @@
 body {
   overflow: hidden;
-  font-family: "Butcherman", cursive;
+  font-family: "Roboto Mono", monospace;
   color: #a2c9ed;
   font-size: 3rem;
+  font-weight: bold;
   background-color: #e9e8e5;
   background: url(./dist/assets/bg.png) no-repeat center center/cover;
   width: 100vw;

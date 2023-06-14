@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "tsc && copyfiles -u 2 src/assets/**/* dist/assets"
+    "build": "tsc"
   }
 }
